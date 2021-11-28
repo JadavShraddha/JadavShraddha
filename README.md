@@ -1,4 +1,4 @@
 - 👋 Hi, I’m shraddha jadav
-- 🌱 I’m currently learning with help from www.gitHub.com and www.hackerrank.com
+- 🌱 I’m currently learning with help from www.gitHub.com and https://www.hackerrank.com/dashboard
 - 💞️ I’m looking to collaborate on youtube.
 - 📫 How to reach me: telegram

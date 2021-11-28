@@ -1,5 +1,4 @@
 - 👋 Hi, I’m shraddha jadav
-- 👀 I’m interested in 
-- 🌱 I’m currently learning data structure and algorithem
+- 🌱 I’m currently learning with help from www.gitHub.com and www.hackerrank.com
 - 💞️ I’m looking to collaborate on youtube.
-- 📫 How to reach me: email-shraddhajaddav201@gmail.com
+- 📫 How to reach me: telegram

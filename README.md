@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jadavshraddha&label=Profile%20views&color=0e75b6&style=flat" alt="jadavshraddha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadavshraddha" alt="jadavshraddha" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadavshraddha" alt="jadavshraddha" /></a> </p>
 
 - 🌱 I’m currently learning **full stack web development**
 

@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **full stack web development**
 
 - 📫 How to reach me **shraddhajadav201@gmail.com**
+- Portfolio: https://shraddhajadav.netlify.app/
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
